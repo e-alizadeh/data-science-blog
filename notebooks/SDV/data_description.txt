@@ -1,0 +1,10 @@
+SINGLE CITY TIMESERIES
+The data is available in daily_min_temperature_data_melbourne.csv file.
+The original data can be found at https://www.kaggle.com/paulbrabban/daily-minimum-temperatures-in-melbourne.
+The original data goes from January 1, 1981 to December 30 1990. 
+However, in this post we are only taking data from  January 1, 1981 to October 9 1982 (just an arbitrary date!!).
+
+-----
+MULTIPLE CITIES TIMESERIES
+The data is available in fake_time_series_data_multiple_cities.csv file.
+It has been create from above dataset but additional columns have been added.
