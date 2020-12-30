@@ -1,0 +1,4 @@
+wine.csv 
+Used in the post https://www.ealizadeh.com/blog/mlxtend-library-for-data-science/
+Downloaded from https://www.kaggle.com/tug004/3wine-classification-dataset. 
+Data description is available https://archive.ics.uci.edu/ml/datasets/wine
